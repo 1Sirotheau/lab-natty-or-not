@@ -23,19 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este Podcast poema do dia, traz o poema Diga não ao racismo. Uma poema para refletirmos sobre o racismo nos dias atuais.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Poema de autoria própria;
+IA Generativa ElevenLabs para clonagem e sintetização de voz;
+E Software Descript para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O texto foi de autoria própria. O "ElevenLabs" para a criação do áudio sintético e a narração. E o "Descript" para a edição final.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é uma reflexão sobre o racismo policial.
+
+https://web.descript.com/9f82571a-61fc-4922-873b-86bc28724194/fa467?editorVariant=default
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Indo com calma não é tão difícil.
 ```
 
 ### Exemplos e Insigths
